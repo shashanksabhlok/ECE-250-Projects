@@ -6,10 +6,15 @@ Those looking at my implementations might be curious why class declarations and 
 Projects
 
   Project 1: Implement the deque data structure using a circular array.
+  
   Project 2: Design and implement a hash table which resolves collisions using double hashing.
+  
   Project 3: Implement the quadtree data structure. 
+  
   Project 4: Design a Weighted graph.
 
+
 *Note: I do not allow anyone to use my implementations as thier own.
+
 
 ©Shashank Sabhlok. All Rights Reserved
